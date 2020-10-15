@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_heroes">Daftar Jojo</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Jonathan Joestar</item>
+        <item>Joseph Joestar</item>
+        <item>Jotaro Kujo</item>
+        <item>Josuke Higastaka</item>
+        <item>Giorno Giovanna</item>
+        <item>Jolyne Cujoh</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Jonathan Joestar adalah Jojo pertama dari series Jojo Bizzare Adventure. Gentelman yang 1 ini memiliki tinggi 195 cm dan juga sangat berotot. Dia menngunakan hamon sebagai senjata utamanya dalam melawan zombie dan vampir.Dia juga mempunyai saudara angkat yang dimana akan menjadi musuh utamanya</item>
+        <item>Lucu dan licik adalah ciri khas dari jospeh joestar. Jojo yang kedua ini mempunyai tinggi 195 cm. Dia mempunyai 2 senjata andalan yaitu hamon dan stand.Stand nya bernama hermit purple yang merupakan sejenis tali berduri.Joseph juga pernah mengalahkan pillar men menggunakan trik nya yang tidak dapat diduga</item>
+        <item>Salah satu Jojo yang paling dikenal, Jotaro adalah jojo ketiga dengan tinggi 195 cm.Sikapnya sangat berbeda dari 2 jojo sebelumnya.Sikapnya yang "edgy" ini membuat banyak orang menggapnya keren.Kekuatan utamanya adalah stand yang bernama Star Platinum. Star Platinum mempunyai kekuatan untuk memberhentikan waktu yang dimana kekuatannya sama dengan musuh utamanya:DIO </item>
+        <item>Anak dari joseph Joestar dan merupakan jojo keempat. Josuke adalah seorang pelajar dari kota morioh. Josuke adalah seorang yang ramah dan menyenangkan kecuali saat kamu meledek tentang rambutnya.Kekuatanya adalah stand yaitu Crazy Diamond. Stand ini bisa "membetulkan" barang ke bentuk/posisi sebelumnya.Josuke juga sangat kretaif saat menggunakan stand nya </item>
+        <item>Merupakan anak dari DIO dan Jonathan, Giornno Giovanna merupakan jojo ke lima. Dia adalah seorang remaja yang berumur 15 tahun dan merupakan seorang pemimpi dari sebuah mafia. Dia mempunyai stand yang bernama gold experince yang dimana stand ini bisa membuat mahluk hidup dari benda apapun. Dengan kalimat andalannya "I Giorno Giovanna Have A Dream" dan Stand nya,dia berhasil mengalahkan pemimpin mafia dan mengambil alih mafia tersebut </item>
+        <item>Anak dari jotaro dan merupakan satu satunya Jojo perempuan, Jolyne memiliki sifat yang hampir sama dengan ayahnya.Jolyne masuk penjara karena dia di tuduh membunuh seorang pria. Dengan stand nya stone free yang mempunyai kekuatan membuat tali dari tubuhnya, Dia menjalani kehidupan di penjara untuk mencari tau orang yang mencuri ingatan ayahnya </item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/jonathan</item>
+        <item>@drawable/joseph</item>
+        <item>@drawable/jotaro</item>
+        <item>@drawable/josuke</item>
+        <item>@drawable/giorno</item>
+        <item>@drawable/jolney</item>
+    </array>
+</resources>
